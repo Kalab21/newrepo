@@ -1,2 +1,3 @@
 newfile.txt
 Write this comment for change.
+This comment is for the new branch.
